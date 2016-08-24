@@ -76,7 +76,7 @@ var index1 = 0;
 
       var temp_array = [];
 
-         temp_array.push(long, lat);
+         temp_array.push(lat, long);
        output3[index1].latLong.coordinates = temp_array;
 
        index1++;
